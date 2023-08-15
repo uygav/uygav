@@ -16,6 +16,10 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+<h3 align="left">📚 Frameworks</h3>
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=uygav&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
